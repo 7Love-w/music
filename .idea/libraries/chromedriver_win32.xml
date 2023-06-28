@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+<component name="libraryTable">
+  <library name="chromedriver_win32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/chromedriver/lib/chromedriver/chromedriver_win32.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:56658a4bed53eb4820c718432666e150d31506eed6a0275982aa9399b55359bc
+size 273
+>>>>>>> c3222162 (code)

@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MusicSystemAdminVue.iml" filepath="$PROJECT_DIR$/.idea/MusicSystemAdminVue.iml" />
+    </modules>
+  </component>
+</project>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed3fefdaf9de48e308283d90e5b04183d924319374b0c6f9c80e2fcdcfef7cd3
+size 297
+>>>>>>> c3222162 (code)
